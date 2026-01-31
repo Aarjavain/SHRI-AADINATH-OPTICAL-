@@ -16,14 +16,14 @@ header {
 
 .logo {
     font-size: 22px;
-    font-weight: bold;
-    color:rgba(52, 0, 0, 0.512);
+    font-weight: bolder;
+    color:rgb(39, 3, 3);
 }
 
 nav a {
     margin-left: 20px;
     text-decoration: none;
-    color: #333;
+    color: #330202;
     font-weight: 500;
 }
 
@@ -39,7 +39,7 @@ nav a {
     padding: 12px 25px;
     border: none;
     background: white;
-    color: #1a73e8;
+    color: #490303;
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
